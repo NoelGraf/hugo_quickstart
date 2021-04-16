@@ -1,5 +1,5 @@
 baseURL = "https://noelgraf.github.io/hugo_quickstart/"
 languageCode = "en-us"
 publishDir = "docs"
-title = "My New Hugo Site"
+title = "My Personal Site"
 theme = "ananke"
