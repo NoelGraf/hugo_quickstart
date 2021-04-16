@@ -1,1 +1,1 @@
-# hugo_quickstart
+# Hugo Quickstart
