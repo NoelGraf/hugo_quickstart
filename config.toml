@@ -1,4 +1,4 @@
 baseURL = "https://noelgraf.github.io/hugo_quickstart/"
 languageCode = "en-us"
-title = "My Personal Site"
+title = "My Homepage"
 theme = "ananke"
